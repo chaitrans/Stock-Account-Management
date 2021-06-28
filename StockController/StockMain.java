@@ -7,6 +7,12 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+ /**Created a program to read in Stock Names, Number of Share, Share Price.
+ * And Printed Stock Report with the total value of each Stock and the total value of
+   Stock and also user can buy and sell shares.
+ *@author Chaitra NS
+ *@Since 27-06-2021 */
+
 public class StockMain {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
